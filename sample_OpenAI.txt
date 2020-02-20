@@ -1,4 +1,4 @@
-Every year, OpenAI’s employees vote on when they believe artificial general intelligence, or AGI, will finally arrive. 
+Every year, OpenAI’s employees vote on when they believe artificial general intelligence, or AGI, will finally arrive.
 It’s mostly seen as a fun way to bond, and their estimates differ widely. 
 But in a field that still debates whether human-like autonomous systems are even possible, half the lab bets it is likely to happen within 15 years.
 In the four short years of its existence, OpenAI has become one of the leading AI research labs in the world. 
